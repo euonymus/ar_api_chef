@@ -1,0 +1,31 @@
+{
+  "id": "mysql",
+  "development": {
+    "encrypted_data": "fnkic9rs2zxLdGxUHoLf1CljbN0/I50OtY3o6j5zJOimWalatJozqWPjicg7\n4qq+ljK9MLA3GzuPomFde5497xXpLLrksIEvasK1FBOe9/kxwAE2C5QsKtbu\nufFp37+eWN7xdunSih61Y/xWXn13eNX2KCQ0XwS10jgJMISCSzv7pMy0EJC4\nq+IgSI6Ao0jbzIsq+1ti2IwR2WlYBqfXvMRsZwmGWAiz6Z6K6F3rITT8dfZh\nJ4ihLeTQYg==\n",
+    "iv": "YhP/PGdgIJvDTI/0\n",
+    "auth_tag": "h4aqYqVGdsjGLvOp0znYNA==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  },
+  "production": {
+    "encrypted_data": "o1fTrpN3cNdOrXfUxi8pRErSfoSZ/KQH+khlYmsOJx+A5eIMGfabmfcvSeHn\nHNVsSPoMvXyl/9G/8owqaQ5jHLwLbO8OAvT/j/Wf2vVIr6F9LGqy0F9X19TC\nQl7PK0rf5vgV/DPcDB5WPIZy6GLO3Tpn4NkY0UiLm9mXOE89yXEFefX4Moxc\njpdaJ4BV8spEHxBwWewexrGaUHqCeAlOZlEmDaKLOWOc0GQz+9ZBCn4TDwNg\nhc0mgrrlUA==\n",
+    "iv": "85B7JYnKEhGWqOh+\n",
+    "auth_tag": "mefag0hjcHI8L4JVH5bzAw==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  },
+  "personal": {
+    "encrypted_data": "ronixBSgMKyGtiltudbGGQWE24Nq0EY8xFLS31JpZ7g4QDxNbRRSP8f2w1u7\nsOGZwwybo8JRYpES6f8dVdIvgROo/tLZTNdpRyZUd3dwd4rTLz41L3FAHfLm\nK9O6OoHJk/xdgiXC6Rj4RsuN2RFK7jtoprKwDodptH81fha7l04vzMX8Go7F\nRfms2Xz8S1fMJIFAtPn/H9oJD1wAybyKa9hC9gF4RewV8OnNe3PmEYKTWZHx\nBnEIJPrbKg==\n",
+    "iv": "GZnXFKpf+9awNKEI\n",
+    "auth_tag": "3H+2VQePRIwFMQoaw2FnXA==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  },
+  "virtualbox": {
+    "encrypted_data": "qlXwPK94bTfg6S7sPx1WqmgWUpF1L0q528byY8fgDccyswgydKhol1Bfaqak\nNKzWRowpOaSY+QeQlardtk6gr+mqy1BAtYYdCqPEqk+o/uy7tW1apjzbmVqS\nByvvv3VP8DAzDzp6LK87YhuIfP73ZIs3Ms58hOiq6UQcb3VXI93v4kCn92M1\nTtBvs8RHuY6szewyfJVF9si/+hBIgMQGd/vek/nhOHNu4r1WTrbrRkeOxKeL\nJ/S0uQYo5g==\n",
+    "iv": "jDKE3rtdPfzaoYKJ\n",
+    "auth_tag": "T/4a6bhiIt4QqNsXjXWj7w==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}
