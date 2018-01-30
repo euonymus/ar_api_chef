@@ -1,0 +1,3 @@
+[submodule "site-cookbooks/lamp"]
+	path = site-cookbooks/lamp
+	url = git@github.com:euonymus/cookbook_lamp.git
