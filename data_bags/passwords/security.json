@@ -1,0 +1,31 @@
+{
+  "id": "security",
+  "development": {
+    "encrypted_data": "Jw0UbDBqCgfz36ZhYxYsBrIpEx775eosL8rNeDQvHfHdaBwQaopQ6tjcM9z4\ngPu6wyUSg5ZTCT9vek3xmp0oaV4OupI=\n",
+    "iv": "6DQdKjij4zCWJcw6\n",
+    "auth_tag": "CCj8VYSoSWWE3A0m7dYCyA==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  },
+  "production": {
+    "encrypted_data": "yVdBYARRovLsgvlen4fHaPkmUsEgHsrOfA+E4dSKoXp1BT0ppU4ryur6oV72\n2xte1YQ5PE1d6Ph66Q8p4p00uw8m73k=\n",
+    "iv": "d6zVKZx1TgTjHWRG\n",
+    "auth_tag": "2aYJfiIiyRfSRg/eTOAcLg==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  },
+  "personal": {
+    "encrypted_data": "UQqHrolYKKadpExzRr6kdtg1idC+4EfYLU/+ALGjf3S47QePo7C5Mpxyreud\ncYt+kld141j2QKtPcIOpFgMCIgFECKg=\n",
+    "iv": "L1oCki/5/5BvZYSV\n",
+    "auth_tag": "oUlGl30A7AZktAIxNcpgwQ==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  },
+  "virtualbox": {
+    "encrypted_data": "6Nkbw4Jek7iX5WUcFO27vv+RjqHkinreqBH/GUy3S2LrJ+PxvMAJRMjRaujs\nTVsfQx82JHwoQq3bDBLGQxKCsI/+QMQ=\n",
+    "iv": "zhJ3fDRglT7K5f2A\n",
+    "auth_tag": "alIqWdu1BmfTqKTQMBh9FQ==\n",
+    "version": 3,
+    "cipher": "aes-256-gcm"
+  }
+}
