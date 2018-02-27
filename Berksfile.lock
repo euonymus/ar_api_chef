@@ -7,8 +7,8 @@ DEPENDENCIES
   mysql2_chef_gem
   nrpe
   php
+  poise-python (~> 1.6.0)
   postfix
-  python (~> 1.4.6)
   simple_iptables
   vim
 
@@ -50,14 +50,20 @@ GRAPH
     build-essential (>= 0.0.0)
     mysql (>= 6.0.0)
     yum-epel (>= 0.0.0)
+  poise (2.8.1)
+  poise-archive (1.5.0)
+    poise (~> 2.6)
+  poise-languages (2.1.1)
+    poise (~> 2.5)
+    poise-archive (~> 1.0)
+  poise-python (1.6.0)
+    poise (~> 2.7)
+    poise-languages (~> 2.0)
   postfix (5.2.1)
   postgresql (6.1.1)
     build-essential (>= 2.0.0)
     compat_resource (>= 12.16.3)
     openssl (>= 4.0)
-  python (1.4.6)
-    build-essential (>= 0.0.0)
-    yum-epel (>= 0.0.0)
   selinux_policy (2.0.1)
     compat_resource (>= 12.16.3)
   seven_zip (2.0.2)
