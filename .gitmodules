@@ -1,7 +1,3 @@
-[submodule "site-cookbooks/cakephp"]
-	path = site-cookbooks/cakephp
-	url = git@github.com:euonymus/cookbook_cakephp.git
-	ignore = dirty
 [submodule "site-cookbooks/ar_api"]
 	path = site-cookbooks/ar_api
 	url = git@github.com:euonymus/cookbook_ar_api.git
