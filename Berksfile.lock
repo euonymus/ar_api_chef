@@ -2,6 +2,7 @@ DEPENDENCIES
   apache2
   apt
   database
+  emacs (~> 0.10.0)
   git
   mysql
   mysql2_chef_gem
@@ -21,6 +22,7 @@ GRAPH
   compat_resource (12.19.1)
   database (6.1.1)
     postgresql (>= 1.0.0)
+  emacs (0.10.0)
   git (8.0.0)
     build-essential (>= 0.0.0)
     homebrew (>= 0.0.0)

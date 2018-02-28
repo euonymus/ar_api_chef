@@ -2,6 +2,7 @@ source "https://api.berkshelf.com"
 
 cookbook 'git'
 cookbook 'vim'
+cookbook 'emacs', '~> 0.10.0'
 cookbook 'apache2'
 cookbook 'apt'
 cookbook 'mysql'
