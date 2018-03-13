@@ -1,7 +1,3 @@
-[submodule "site-cookbooks/ar_api"]
-	path = site-cookbooks/ar_api
-	url = git@github.com:euonymus/cookbook_ar_api.git
-	ignore = dirty
 [submodule "site-cookbooks/lampy"]
 	path = site-cookbooks/lampy
 	url = git@github.com:euonymus/cookbook_lampy.git
